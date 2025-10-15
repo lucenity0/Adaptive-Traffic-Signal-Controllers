@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+    <connection from="N2S" to="S2N" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="S2N" to="N2S" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="E2W" to="W2E" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="W2E" to="E2W" fromLane="0" toLane="0" dir="s" state="M"/>
+</connections>
